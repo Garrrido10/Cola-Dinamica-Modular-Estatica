@@ -1,13 +1,6 @@
 # Cola-Dinamica-Modular-Estatica
 # Práctica: Arquitectura Modular y Estructuras de Datos Lineales (Colas)
 
-**Asignatura:** Estructura de Datos  
-**Alumno:** Marco Antonio Pavia Flores  
-**Docente:** Víctor Hugo Vásquez Herrera  
-**Institución:** Instituto Tecnológico Superior de Xalapa (ITSX)  
-
----
-
 ## 1. Descripción y Estructura Modular del Proyecto
 El proyecto está desarrollado en Java respetando una arquitectura modular que separa las estructuras de datos de tipo Cola (FIFO - *First In, First Out*) en sus variantes lineal estática, circular estática y dinámica enlazada, junto con sus respectivas clases de ejecución independientes:
 
